@@ -8,7 +8,7 @@ ALMA, meaning "soul" in Spanish and "source of life" in Latin, represents a self
 - Enable people to establish relationships and communities without boundaries.
 - Ensure smooth and organic transfer of value and self-expression.
 
-### Key Features
+## Key Features
 - **Identifier Entity**: Provides a unique identifier assigned to individuals, organizations, objects, etc.
 - **Key and Data Recovery Function Using Secret Sharing**: Offers a function to recover keys and data while guaranteeing self-sovereignty.
 - **Data Entity "Instance" with Zero-Knowledge Proof**: Provides a data entity with a selective disclosure function using zero-knowledge proof.
