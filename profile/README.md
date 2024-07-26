@@ -34,5 +34,5 @@ ALMA, meaning "soul" in Spanish and "source of life" in Latin, represents a self
    - Foster a global network of users and developers continuously contributing to the ALMA ecosystem.
   
 ## Link
-Document: https://alma.gitbook.io/alma
+Document: https://alma.gitbook.io/alma  
 Scrapbox: https://scrapbox.io/alma/
