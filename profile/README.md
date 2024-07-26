@@ -32,3 +32,7 @@ ALMA, meaning "soul" in Spanish and "source of life" in Latin, represents a self
 4. **Phase 4: Continuous Improvement and Future Innovations**
    - Explore new technologies and features to keep ALMA at the forefront of digital identity and asset management.
    - Foster a global network of users and developers continuously contributing to the ALMA ecosystem.
+  
+## Link
+Document: https://alma.gitbook.io/alma
+Scrapbox: https://scrapbox.io/alma/
